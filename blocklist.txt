@@ -1,4 +1,0 @@
-# List distributed by joran
-
-China Internet Information Center (CNNIC):1.2.4.0-1.2.4.255
-Multi downloader:185.65.134.162-185.65.134.165
